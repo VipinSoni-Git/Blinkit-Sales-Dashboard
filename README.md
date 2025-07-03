@@ -1,6 +1,4 @@
-Blinkit-Sales-Dashboard
-
----
+<h2 id='bsd' align="center">Blinkit-Sales-Dashboard</h2>
 
 ## 🚀 Problem Statement:
 
@@ -65,4 +63,8 @@ Here are a few visuals from the Blinkit Sales Performance Dashboard:
 
   ➺ 📈 Visuals: Sales by Item Type, Outlet Type & Trends
 
+<div align='center'>
+  
+**[`Scroll to Top`](#bsd)**
 
+</div>
