@@ -1,5 +1,7 @@
 # Blinkit-Sales-Dashboard
 
+---
+
 ## 🚀 Problem Statement:
 
 To create a dashboard that uncovers meaningful insights about **Item-level Sales**, **Outlet Performance**, and **Customer Preferences** using Blinkit's sales data.
