@@ -63,31 +63,31 @@ Feel free to explore the **.pbix** file from the repo. or contact me for more su
 ### 📸 ***Extra* -- Dashboard Screenshots
 Here are a few visuals from the Blinkit Sales Performance Dashboard:
 
-  ➺ 🖼️ [Overall Dashboard View]()
+  ➺ 🖼️ [Overall Dashboard View](https://github.com/VipinSoni-Git/Blinkit-Sales-Dashboard/blob/main/Assets/SS/OverallDashboardView.png)
 
   ![Image](https://github.com/user-attachments/assets/2cf38599-cf26-43b2-9d86-1f6b72b854cb)
 
   ---
 
-  ➺ 📊 [KPI Cards and Filters]()
+  ➺ 📊 [KPI Cards and Filters](https://github.com/VipinSoni-Git/Blinkit-Sales-Dashboard/blob/main/Assets/SS/KPICardsAndFilters.png)
 
   ![Image](https://github.com/user-attachments/assets/0a8a172e-cf36-4117-a634-f45303b8f085)
 
   ---
 
-  ➺ 📈 [Metrics](): By Item Type, FAT Content & FAT by Outlet
+  ➺ 📈 [Metrics](https://github.com/VipinSoni-Git/Blinkit-Sales-Dashboard/blob/main/Assets/SS/Matrics.png): By Item Type, FAT Content & FAT by Outlet
 
   ![Image](https://github.com/user-attachments/assets/f4e7ae6e-b383-4122-839e-05e6c209279f)
 
   ---
 
-  ➺ 📝 [OUTLET Visuals]() : Establishment, Size, Location, Type & Trends
+  ➺ 📝 [OUTLET Visuals](https://github.com/VipinSoni-Git/Blinkit-Sales-Dashboard/blob/main/Assets/SS/OutletVisual.png) : Establishment, Size, Location, Type & Trends
 
   ![Image](https://github.com/user-attachments/assets/1c3a68a1-c4ba-4049-b10e-4c48eaf1f679)
 
   ---
 
-   ➺ 🕸️ [Data Model]()
+   ➺ 🕸️ [Data Model](https://github.com/VipinSoni-Git/Blinkit-Sales-Dashboard/blob/main/Assets/SS/DataModel.png)
 
    ![Image](https://github.com/user-attachments/assets/80443865-f0d6-4dd6-9c91-d690fea8197d)
 
