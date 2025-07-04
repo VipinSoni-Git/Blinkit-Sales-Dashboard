@@ -1,11 +1,14 @@
+<div id=bsd align='center'>
+ 
+ # Blinkit-Sales-Dashboard
+ 
+</div>
 
-# Blinkit-Sales-Dashboard
-
-<h2 id='bsd'>🚀 Problem Statement:</h2>
+## 🚀 Problem Statement:
 
 To create a dashboard that uncovers meaningful insights about **Item-level Sales**, **Outlet Performance**, and **Customer Preferences** using Blinkit's sales data.
 
-🧩 Key Features of the Report:
+## 🧩 Key Features of the Report:
 
 **KPI Cards:** Total Sales, Avg Sales, No. of Items, Avg Rating
 
@@ -68,7 +71,16 @@ Here are a few visuals from the Blinkit Sales Performance Dashboard:
 
   ---
 
-  ➺ 📈 [Visuals](): Sales by Item Type, Outlet Type & Trends
+  ➺ 📈 [Metrics](): By Item Type, FAT Content & FAT by Outlet
+
+  ---
+
+  ➺ 📝 [OUTLET Visuals]() : Establishment, Size, Location, Type & Trends
+
+  ---
+
+   ➺ 🕸️ [Data Model]()
+
   
 ---
 
