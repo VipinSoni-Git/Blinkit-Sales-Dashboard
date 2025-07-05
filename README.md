@@ -34,7 +34,7 @@ To create a dashboard that uncovers meaningful insights about **Item-level Sales
 
   ➺ **Power BI** (Data modeling, DAX, Visualization)
 
-  ➺ **Dataset Used:** [Kaggel](https://www.kaggle.com/mrvipinsoni)&nbsp; | &nbsp;[Blinkit](https://blinkit.com/) (sample retail dataset)
+  ➺ **Dataset Used:** [Kaggel](https://www.kaggle.com/datasets/mrvipinsoni/blinkit-sales-dataset)&nbsp; | &nbsp;[Blinkit](https://blinkit.com/) (sample retail dataset)
 
 ## 💥 Impact:
 
